@@ -1,0 +1,3 @@
+C:\Users\leo\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/000027.jpg 99,45,209,125,0
+C:\Users\leo\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/000067.jpg 186,1,365,234,0
+C:\Users\leo\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/000142.jpg 72,86,291,335,1
