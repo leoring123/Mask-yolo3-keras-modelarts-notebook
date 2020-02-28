@@ -67,7 +67,8 @@ python yolo_video.py [video_path] [output_path (optional)]
 positional arguments:
   --input        Video input path
   --output       Video output path
-
+根目录请自建logs文件夹用于保存模型和日志。
+自行下载yolo原始模型转H5。
 部署到本地摄像头记得修改yolo.py   # vid = cv2.VideoCapture(video_path) 为# vid = cv2.VideoCapture(0)
 本方案除了借鉴其它开源大佬的资料和建议，底层思维来自建研无感支付课题组的无感支付识别技术光学识别理论延伸而来。
 感谢建信金科移动金融团队和华为云modelarts团队的支撑与支持。部分来自互联网的信息如有侵权，请及时联系作者删减。
