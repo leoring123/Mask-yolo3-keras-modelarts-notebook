@@ -1,7 +1,8 @@
 # Mask-yolo3-keras-modelarts-notebook
 # 袁覃的建行云工作室
 
-![袁覃的建行云工作室](https://lsjr.ccb.com/msmp/ecpweb/page/login/loginCCB.html?CCB_EmpID=67708689&from=timeline&page=firstPage)
+袁覃的建行云工作室:
+https://lsjr.ccb.com/msmp/ecpweb/page/login/loginCCB.html?CCB_EmpID=67708689&from=timeline&page=firstPage
 
 ![袁覃的建行云工作室](https://github.com/leoring123/Mask-yolo3-keras-modelarts-notebook/blob/master/cloudccb.png)
 
