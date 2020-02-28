@@ -3,6 +3,7 @@
 大家好，我是建行常德桥南支行的客户经理袁覃。
 同时，也是建行无感支付课题组成员。
 曾借调建信金科，全流程参与了劳动者港湾人工智能垃圾分类模型的开发。
+![华为云直播](https://github.com/leoring123/Mask-yolo3-keras-modelarts-notebook/blob/master/together.jpg)
 ![华为云Modelarts](https://github.com/leoring123/Mask-yolo3-keras-modelarts-notebook/blob/master/ma1.png)
 防疫口罩佩戴检测模型前传！ 纪念华为云口罩佩戴检测模型直播圆满成功！助力防疫从你我做起，从小事做起！
 The test environment is
@@ -51,3 +52,4 @@ positional arguments:
 tel：+86-13203636335    e-mail：61167448@qq.com
 未完待续...
 口罩智能识别.MP4为华为云落地应用简示。
+![我](https://github.com/leoring123/Mask-yolo3-keras-modelarts-notebook/blob/master/me.jpg)
