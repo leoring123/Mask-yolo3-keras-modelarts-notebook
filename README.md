@@ -68,4 +68,3 @@ positional arguments:
 tel：+86-13203636335    e-mail：61167448@qq.com
 未完待续...
 口罩智能识别.MP4为华为云落地应用简示。
-![我](https://github.com/leoring123/Mask-yolo3-keras-modelarts-notebook/blob/master/me.jpg)
