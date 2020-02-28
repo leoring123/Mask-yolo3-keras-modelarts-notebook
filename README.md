@@ -1,25 +1,41 @@
 # Mask-yolo3-keras-modelarts-notebook
+# 袁覃的建行云工作室
 ![袁覃的建行云工作室](https://github.com/leoring123/Mask-yolo3-keras-modelarts-notebook/blob/master/cloudccb.png)
 大家好，我是建行常德桥南支行的客户经理袁覃。
 同时，也是建行无感支付课题组成员。
 曾借调建信金科，全流程参与了劳动者港湾人工智能垃圾分类模型的开发。
 ![华为云直播](https://github.com/leoring123/Mask-yolo3-keras-modelarts-notebook/blob/master/together.jpg)
 ![华为云Modelarts](https://github.com/leoring123/Mask-yolo3-keras-modelarts-notebook/blob/master/ma1.png)
-防疫口罩佩戴检测模型前传！ 纪念华为云口罩佩戴检测模型直播圆满成功！助力防疫从你我做起，从小事做起！
+---------------------------------------------------------------------------------------------------------------
+传送门！！！
+# ModelArts口罩佩戴模型开发直播课活动：
+回看已出，参与活动及查看直播回放请点击：https://bbs.huaweicloud.com/forum/thread-42068-1-1.html
+大家可以去练手！
+
+开发指导文档https://github.com/huaweicloud/ModelArts-Lab/tree/master/contrib/1.%E5%8F%A3%E7%BD%A9%E6%A3%80%E6%B5%8B%E6%A8%A1%E5%9E%8B%E7%9B%B4%E6%92%AD%E5%BC%80%E5%8F%91%E6%8C%87%E5%AF%BC%E6%96%87%E6%A1%A3
+
+
+# 防疫口罩佩戴检测模型前传！ 纪念华为云口罩佩戴检测模型直播圆满成功！助力防疫从你我做起，从小事做起！
+
 The test environment is
     - Modelarts notebook
     - Python 3.5.2
     - Keras 2.1.5
     - tensorflow 1.6.0
 
-无感支付技术与应用研究的光学识别理论延伸
+# 无感支付技术与应用研究的光学识别理论延伸
   无感支付的概念界定：
 --无感支付是用某种独一无二的特征标的物绑定银行账户或支付工具，通过一系列技术加以识别该特征标的物，从而完成支付。    
 --目前识别技术主要可划分为三类，即光学识别、声学识别、各类波的识别，这些技术为无感支付提供了基础的技术条件。
 --常见的初代无感支付场景有ETC高速通行、机场物业车牌识别、刷脸支付等等新零售的支付环节。
 
+# 建研无感支付课题组
 ![建研无感支付课题组](https://github.com/leoring123/Mask-yolo3-keras-modelarts-notebook/blob/master/universityccb1.png)
+
 ![建研无感支付课题组学习场景](https://github.com/leoring123/Mask-yolo3-keras-modelarts-notebook/blob/master/universityccb2.png)
+
+
+
 ##Introduction
 
 A Keras implementation of YOLOv3 (Tensorflow backend) inspired by allanzelener/YAD2K.
